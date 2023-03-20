@@ -1,0 +1,49 @@
+/* text color: rgba(245, 245, 245, 0.788)
+ */
+
+img { /*aligning photo, too large to start*/
+    align-items: center;
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+}
+main {
+    padding: 25px;
+    text-align: justify;
+    background-color: black;
+    color: rgba(245, 245, 245, 0.788);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header {
+    background-color: rgb(56, 191, 245);
+    color: black;
+    margin-bottom: -20px;
+    margin-top: -22px;
+    text-align: justify;
+    padding-left: 25px;
+    
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(56, 191, 245);
+    margin-top:-9px;
+    font-size: medium;
+}
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+
+a:link {color:rgb(56, 191, 245);}
+a:visited {color: darkblue;}
+a:hover {color: purple;}
+a:active {color: rgba(245, 245, 245, 0.788);}
