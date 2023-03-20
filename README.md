@@ -1,2 +1,2 @@
 # PracticePortfolio
-First Prectice Portfolio
+First Practice Portfolio
